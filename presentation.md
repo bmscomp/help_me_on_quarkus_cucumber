@@ -42,4 +42,11 @@
 
 - The big refactoring of the extension must come one day
 
+## Useful links ?
+
+- [Quarkus Cucumber Extension GitHub repo](https://github.com/quarkiverse/quarkus-cucumber) https://github.com/quarkiverse/quarkus-cucumber
+- [Quarkus Cucumber documentation](https://docs.quarkiverse.io/quarkus-cucumber/dev/index.html) https://docs.quarkiverse.io/quarkus-cucumber/dev/index.html
+- [Quarkus](https://docs.quarkiverse.io/quarkus-cucumber/dev/index.html) https://docs.quarkiverse.io/quarkus-cucumber/dev/index.html
+- [Cucumber official website](https://cucumber.io/) https://cucumber.io/
+
 ## Thank you!
