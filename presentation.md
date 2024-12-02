@@ -50,3 +50,5 @@
 - [Cucumber official website](https://cucumber.io/) https://cucumber.io/
 
 ## Thank you!
+
+![](images/thank_you.png)
