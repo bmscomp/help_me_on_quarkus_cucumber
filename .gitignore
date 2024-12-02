@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+tmp/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
