@@ -1,14 +1,17 @@
 % I need your help on Quarkus Cucumber
 % Said BOUDJELDA (Back-end Developer @Sciam.fr)
-% December 03, 2024
+% December 12, 2024
 
 # Quarkus
 
 ## Why Quarkus?
 
 - Java (The programming language of the enterprise world)
-- Fast startup, and adaptable for the cloud
+- Ultra-fast startup time
+- Low memory footprint
 - Native compilation
+- Kubernetes integration
+- Active Community and Enterprise Support
 
 ## Why Quarkus?
 
@@ -19,22 +22,24 @@
 - BDD (Behavior Driven Development)
 - A framework for writing tests in natural language (Gherkin)
 - Make tests readable and understandable by non-technical people
-
-## Why Not Quarkus Cucumber?
-
-![Quarkus home page](images/quarkus-cucumber.png)
+- Living documentation
 
 ## What to do?
 
 - Contribute to the Quarkus Cucumber extension
 
-## What do we need you for?
+## We really need you for
 
 - Write documentation
 - Enhance the extension
 - Implement new features
+- Test the extension
 
-## More ?
+## Solve issues
+
+![Issues](images/issue.png)
+
+## More
 
 ![Quarkus home page](images/quarkus-cucumber.png)
 
@@ -49,6 +54,10 @@
 - [Quarkus](https://docs.quarkiverse.io/quarkus-cucumber/dev/index.html) https://docs.quarkiverse.io/quarkus-cucumber/dev/index.html
 - [Cucumber official website](https://cucumber.io/) https://cucumber.io/
 
-## Thank you!
+##   
+
+*Questions !*
+
+##   
 
 ![](images/thank_you.png)
